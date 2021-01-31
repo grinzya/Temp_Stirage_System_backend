@@ -1,5 +1,5 @@
 # Temp_Stirage_System_backend
-Пример работы системы хранения данных для открытой системы (https://github.com/grinzya/Temp_Stirage_System_backend и https://github.com/alexandr-blinkov/vue-ymaps)
+Пример работы системы хранения данных для открытой системы (https://github.com/ArtRu-ai/ESP8266-Temperature-measurement-open-system и https://github.com/alexandr-blinkov/vue-ymaps)
 # Описание
 # Компоненты открытой системы хранения данных
 Для запуска системы использовались следущие элементы:
